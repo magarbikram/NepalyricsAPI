@@ -1,0 +1,5 @@
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data\bin\Debug\Nepalyrics.Data.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data\bin\Debug\Nepalyrics.Data.pdb
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data\obj\Debug\Nepalyrics.Data.csprojResolveAssemblyReference.cache
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data\obj\Debug\Nepalyrics.Data.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data\obj\Debug\Nepalyrics.Data.pdb

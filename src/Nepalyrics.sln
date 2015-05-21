@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Web
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nepalyrics.Common", "Nepalyrics.Common\Nepalyrics.Common.csproj", "{CB3FDA27-1A90-4F55-981A-96D17C8DA52E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nepalyrics.Data", "Nepalyrics.Data\Nepalyrics.Data.csproj", "{D76B74A5-CF38-4C85-80A9-54293DDC59C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nepalyrics.Data.SqlServer", "Nepalyrics.Data.SqlServer\Nepalyrics.Data.SqlServer.csproj", "{E73E2042-4D4D-4AFC-9781-0F7E44941523}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nepalyrics.Web.Api.Models", "Nepalyrics.Web.Api.Models\Nepalyrics.Web.Api.Models.csproj", "{7A06A15D-5585-45CF-9B95-A3B24C6667B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nepalyrics.Web.Common", "Nepalyrics.Web.Common\Nepalyrics.Web.Common.csproj", "{B8084C04-1157-431A-8688-39DFB000682F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nepalyrics.Web.Api", "Nepalyrics.Web.Api\Nepalyrics.Web.Api.csproj", "{F307967E-E954-4F98-BA9D-1B5671146E11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB3FDA27-1A90-4F55-981A-96D17C8DA52E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB3FDA27-1A90-4F55-981A-96D17C8DA52E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB3FDA27-1A90-4F55-981A-96D17C8DA52E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB3FDA27-1A90-4F55-981A-96D17C8DA52E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D76B74A5-CF38-4C85-80A9-54293DDC59C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D76B74A5-CF38-4C85-80A9-54293DDC59C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D76B74A5-CF38-4C85-80A9-54293DDC59C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D76B74A5-CF38-4C85-80A9-54293DDC59C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E73E2042-4D4D-4AFC-9781-0F7E44941523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73E2042-4D4D-4AFC-9781-0F7E44941523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73E2042-4D4D-4AFC-9781-0F7E44941523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73E2042-4D4D-4AFC-9781-0F7E44941523}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A06A15D-5585-45CF-9B95-A3B24C6667B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A06A15D-5585-45CF-9B95-A3B24C6667B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A06A15D-5585-45CF-9B95-A3B24C6667B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A06A15D-5585-45CF-9B95-A3B24C6667B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8084C04-1157-431A-8688-39DFB000682F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8084C04-1157-431A-8688-39DFB000682F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8084C04-1157-431A-8688-39DFB000682F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8084C04-1157-431A-8688-39DFB000682F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F307967E-E954-4F98-BA9D-1B5671146E11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F307967E-E954-4F98-BA9D-1B5671146E11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F307967E-E954-4F98-BA9D-1B5671146E11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F307967E-E954-4F98-BA9D-1B5671146E11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

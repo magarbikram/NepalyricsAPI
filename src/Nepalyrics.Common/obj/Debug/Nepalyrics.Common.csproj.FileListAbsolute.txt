@@ -1,0 +1,12 @@
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Common\bin\Debug\AutoMapper.Net4.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Common\bin\Debug\Nepalyrics.Common.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Common\bin\Debug\Nepalyrics.Common.pdb
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Common\bin\Debug\AutoMapper.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Common\bin\Debug\log4net.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Common\bin\Debug\AutoMapper.pdb
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Common\bin\Debug\AutoMapper.xml
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Common\bin\Debug\AutoMapper.Net4.pdb
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Common\bin\Debug\log4net.xml
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Common\obj\Debug\Nepalyrics.Common.csprojResolveAssemblyReference.cache
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Common\obj\Debug\Nepalyrics.Common.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Common\obj\Debug\Nepalyrics.Common.pdb

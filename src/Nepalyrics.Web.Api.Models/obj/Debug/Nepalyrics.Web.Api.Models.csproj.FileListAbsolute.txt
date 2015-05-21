@@ -1,0 +1,5 @@
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Web.Api.Models\bin\Debug\Nepalyrics.Web.Api.Models.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Web.Api.Models\bin\Debug\Nepalyrics.Web.Api.Models.pdb
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Web.Api.Models\obj\Debug\Nepalyrics.Web.Api.Models.csprojResolveAssemblyReference.cache
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Web.Api.Models\obj\Debug\Nepalyrics.Web.Api.Models.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Web.Api.Models\obj\Debug\Nepalyrics.Web.Api.Models.pdb

@@ -1,0 +1,17 @@
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\bin\Debug\AutoMapper.Net4.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\bin\Debug\Nepalyrics.Data.SqlServer.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\bin\Debug\Nepalyrics.Data.SqlServer.pdb
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\bin\Debug\FluentNHibernate.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\bin\Debug\Iesi.Collections.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\bin\Debug\Nepalyrics.Common.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\bin\Debug\Nepalyrics.Data.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\bin\Debug\NHibernate.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\bin\Debug\Nepalyrics.Common.pdb
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\bin\Debug\Nepalyrics.Data.pdb
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\bin\Debug\FluentNHibernate.pdb
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\bin\Debug\FluentNHibernate.xml
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\bin\Debug\Iesi.Collections.xml
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\bin\Debug\NHibernate.xml
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\obj\Debug\Nepalyrics.Data.SqlServer.csprojResolveAssemblyReference.cache
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\obj\Debug\Nepalyrics.Data.SqlServer.dll
+C:\Users\bikram\Documents\Visual Studio 2013\Projects\Nepalyrics\src\Nepalyrics.Data.SqlServer\obj\Debug\Nepalyrics.Data.SqlServer.pdb
