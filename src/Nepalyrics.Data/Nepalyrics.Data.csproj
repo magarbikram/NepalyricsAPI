@@ -39,6 +39,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Contribution.cs" />
+    <Compile Include="Entities\Lyricist.cs" />
+    <Compile Include="Entities\Lyrics.cs" />
+    <Compile Include="Entities\MusicCompany.cs" />
+    <Compile Include="Entities\MusicVideo.cs" />
+    <Compile Include="Entities\News.cs" />
+    <Compile Include="Entities\Person.cs" />
+    <Compile Include="Entities\Role.cs" />
+    <Compile Include="Entities\Singer.cs" />
+    <Compile Include="Entities\Song.cs" />
+    <Compile Include="Entities\Genre.cs" />
+    <Compile Include="Entities\SongAlbum.cs" />
+    <Compile Include="Entities\User.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
